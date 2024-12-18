@@ -31,6 +31,17 @@ This project is a **Guitar Hero simulation** implemented in Java using the **Kar
 
 ---
 
+## **Requirements**
+
+To run the Guitar Hero simulation, you’ll need:
+
+- **Java Development Kit (JDK)** 8 or higher.
+- **StdDraw** and **StdAudio** libraries:
+   - These libraries handle keyboard input and audio output.
+   - (Include them in your project directory or link to where they can be downloaded.)
+
+---
+
 ## **How to Run the Program**
 
 1. **Clone the Repository**:
